@@ -1,0 +1,6 @@
+{
+  "name": "BossOS — Satirical Corporate Desktop & Hackathon Suite",
+  "description": "An offline-first satirical corporate web desktop featuring a live Mood rewrite engine, gaslighting Calculator with proofs, RAM-only Notepad, Recycle Bin with session memory, and an HR Performance Review on Shutdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
